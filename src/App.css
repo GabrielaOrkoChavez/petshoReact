@@ -79,3 +79,13 @@ input[type=submit]{
   margin-top: -7px;
   color: #333;
 }
+
+.rotulo{
+  background-color: #333;
+  color: #fff;
+  font-size: 30px;
+  width: fit-content;
+  text-transform: uppercase;
+  padding: 5px 300px 5px 30px;
+  
+}
