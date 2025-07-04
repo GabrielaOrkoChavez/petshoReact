@@ -99,7 +99,7 @@ input[type=submit]{
   text-align: center;
 }
 
-.fotosAdestramento{
+.fotosAdestramento, .img-hotel{
   display: flex;
   justify-content: center;
 }
@@ -107,4 +107,8 @@ input[type=submit]{
 .fotosAdestramento img{
   width: 95%;
   height: 80%;
+}
+
+.img-hotel{
+  flex-wrap: wrap;
 }
